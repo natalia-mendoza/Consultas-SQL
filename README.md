@@ -15,7 +15,7 @@ El objetivo de este proyecto es dar solucion a los problemas planteados
   >
 * 3. Instalar librerias
 
-  > pip install -r requirements.txt
+  > pip install -r requeriment.txt
   >
 
 * 4. ejecutar el jupyter
