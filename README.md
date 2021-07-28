@@ -1,2 +1,34 @@
-# Consultas-SQL
-Realizar las siguientes consultas en SQL que permitan hacer lo siguiente: a- Seleccionar todos los clientes. b- Seleccionar los clientes que pertenezcan a la región “Centro”. c- Seleccionar los clientes que tengan más de 3 cuentas abiertas en estado Activo. d- Seleccionar solamente el nombre de aquellos clientes que tienen clave dinámica. e- Seleccionar los clientes que no tienen clave dinámica. f- Mostrar el saldo total de todas las cuentas agrupado por la región del cliente. g- Seleccionar el sado total de las cuentas activas, abiertas en el mes de mayo de 2018, cuyos clientes tengan clave dinámica.
+## Introducción
+
+El objetivo de este proyecto es dar solucion a los problemas planteados
+
+#### Instalación :
+
+* 1. Crear ambiente virtual dentro de la carpeta del proyecto
+
+  > pip install virtualenv (si no lo tiene instalado)
+  > virtualenv venv
+  >
+* 2. Luego debe activar el entorno virtual
+
+  > .\ venv\Scripts\activate
+  >
+* 3. Instalar librerias
+
+  > pip install -r requirements.txt
+  >
+
+* 4. ejecutar el jupyter
+
+  > doble clic en prueba_2.ipynb
+  >
+
+
+#### Ejecución:
+
+* 1. Despues de tener las librerias instaladas
+
+  > flask run
+  >
+
+
