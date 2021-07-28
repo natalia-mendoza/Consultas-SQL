@@ -24,11 +24,4 @@ El objetivo de este proyecto es dar solucion a los problemas planteados
   >
 
 
-#### Ejecución:
-
-* 1. Despues de tener las librerias instaladas
-
-  > flask run
-  >
-
 
